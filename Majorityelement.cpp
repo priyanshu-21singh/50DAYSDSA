@@ -13,6 +13,7 @@ public:
                 count--;
             }
         }
+        
         int count1=0;
         for(int i=0;i<nums.size();i++) {
             if(nums[i]==element) count1++;
